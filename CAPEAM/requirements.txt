@@ -1,0 +1,25 @@
+ai2thor==2.1.0
+detectron2==0.6+cu111
+Flask==2.0.3
+gym==0.10.9
+-e git+https://github.com/facebookresearch/habitat-lab.git@96243e6fdae1ba3ee8aae30edce9c18998515773#egg=habitat
+imageio==2.15.0
+matplotlib==3.3.4
+networkx==2.5.1
+numpy==1.22.3
+numpy-quaternion==2022.4.2
+opencv-python==4.6.0.66
+pandas==1.1.5
+Pillow==8.4.0
+pytz==2022.6
+scikit-fmm==2019.1.30
+scikit-image==0.15.0
+scikit-learn==0.22.2.post1
+tensorboard==2.10.0
+tensorboardX==2.5.1
+torch==1.8.0+cu111
+torchaudio==0.8.0a0+a751e1d
+torchvision==0.9.0+cu111
+tqdm==4.64.0
+vocab==0.0.5
+Werkzeug==2.0.3
